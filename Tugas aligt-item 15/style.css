@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+}
+.container {
+    height: 200px;
+    background-color: silver;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.a1 {
+    width: 133px;
+    height: 50px;
+    background-color: skyblue;
+    color: white;
+    padding-top: 20px;
+    align-items: center;
+
+}
+
+
+.a2 {
+    width: 133px;
+    height: 50px;
+    background-color: rgb(18, 230, 18);
+    color: white;
+    padding-top: 20px;
+    align-self: flex-start;
+}
+
+
+.a3 {
+    width: 133px;
+    height: 50px;
+    background-color: rgb(49, 87, 238);
+    color: white;
+    padding-top: 20px;
+    align-items: center;
+}
+
+
+.a4 {
+    width: 133px;
+    height: 50px;
+    background-color: purple;
+    color: white;
+    padding-top: 20px;
+    align-self: flex-start;
+}
+
+
+.a5 {
+    width: 133px;
+    height: 50px;
+    background-color: slategrey;
+    color: white;
+    padding-top: 20px;
+    align-self: center;
+}
+
+
+.a6 {
+    width: 133px;
+    height: 50px;
+    background-color: yellow;
+    color: white;
+    padding-top: 20px;
+    align-self: start;
+}
+
+
+.a7 {
+    width: 133px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    padding-top: 20px;
+    align-items: center;
+}
+
+
+.a8 {
+    width: 133px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    padding-top: 20px;
+    align-self: flex-start;
+}
+
+
+.a9 {
+    width: 133px;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    padding-top: 20px;
+    align-items: center;
+}
+
+
+.a10 {
+    width: 149px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    align-self: flex-start;
+}
