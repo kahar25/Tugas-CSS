@@ -1,0 +1,54 @@
+body {
+    background-image: url(../Stupa_Borobudur.jpg);
+}
+
+div {
+    background-color: white;
+    width: 50%;
+    height: auto;
+    position: relative;
+    float: right;
+
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+h1 {
+    position: relative;
+    left: 350px;
+
+}
+.p1 {
+    position: relative;
+    left: 160px;
+    
+}
+
+.p_pertama {
+    text-align: center;
+    z-index: 5;
+}
+
+.p_kedua {
+    text-align: center;
+    z-index: 4;
+}
+
+.p_ketiga {
+    text-align: center;
+    z-index: 3;
+}
+
+.p_keempat {
+    text-align: center;
+    z-index: 2;
+}
+
+.p_kelima {
+    text-align: center;
+    z-index: 1;
+}
+
+      
+
