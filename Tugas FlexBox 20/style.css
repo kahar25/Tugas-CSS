@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+}
+.container1 {
+    height: 40px;
+    background-color: rgb(224, 223, 223);
+}
+
+.box1 {
+    height: inherit;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    color: whitesmoke;
+    
+}
+
+.a {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: darkturquoise;
+}
+
+.b {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(0, 209, 118);
+}
+
+.c {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(0, 42, 209);
+}
+
+.container2 {
+    height: 40px;
+    background-color: rgb(224, 223, 223);
+    margin-top: 150px;
+     
+}
+
+.box2 {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    color: whitesmoke;
+    font-size: 1em;
+}
+
+ .d {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(132, 139, 139);
+}
+
+.e {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(63, 65, 64);
+}
+
+.f {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(22, 207, 195);
+}
+
+.container3 {
+    height: 40px;
+    background-color: rgb(224, 223, 223);
+    margin-top: 200px;
+}
+
+.box3 {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    color: whitesmoke;
+    font-size: 1em;
+}
+
+ .g {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(132, 139, 139);
+}
+
+.h {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(63, 65, 64);
+}
+
+.i {
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: rgb(22, 207, 195);
+}
+
+.container4 {
+    width: 50px;
+    background-color: rgb(224, 223, 223);
+    color: whitesmoke;
+    text-align: center;
+    margin-top: -500px;
+ 
+}
+
+.box4 {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+ 
+
+.j {
+   width: 50px;
+   height: 30px;
+   padding-top: 10px;
+   background-color: rgb(132, 139, 139);
+   
+}
+
+.k {
+   width: 50px;
+   height: 30px;
+   padding-top: 10px;
+   background-color: rgb(63, 65, 64);
+}
+
+.l {
+   width: 50px;
+   height: 30px;
+   padding-top: 10px;
+   background-color: rgb(22, 207, 195);
+}
+
+ 
