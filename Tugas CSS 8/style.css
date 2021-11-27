@@ -1,0 +1,15 @@
+body {
+    background-image: url(../Stupa_Borobudur.jpg);
+}
+
+div {
+    background-color: white;
+    color: blue;
+    width: 50%;
+    height: 300px;
+    overflow: scroll;
+    border: solid black;
+    text-align: center;
+    padding-top: 10px;
+    
+}
