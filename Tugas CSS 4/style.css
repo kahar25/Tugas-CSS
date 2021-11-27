@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+*{
+    width: 100%;
+    font-size: medium;
+}
+
+button {
+    color: orange;
+    width: 120px;
+    font-size: 25px;
+    position: relative;
+    margin-left: 44%;
+}
