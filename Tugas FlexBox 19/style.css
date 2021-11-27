@@ -1,0 +1,99 @@
+div {
+     
+    height: 100px;
+    text-align: justify;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 1em;
+    color: white;
+   
+     
+}
+
+.box1 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    background-color: orange;
+    padding-left: 50px;
+    order: 9;
+    
+}
+
+.box2 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color:  green;
+}
+
+.box3 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color: rgb(57, 57, 206);
+}
+
+.box4 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color: rgb(178, 12, 211);
+}
+
+.box5 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color: rgb(68, 66, 63)
+    
+}
+
+.box6 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color:  yellow;
+    order: -1;
+    
+}
+
+.box7 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color:  red;
+     
+}
+
+.box8 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color:  silver;
+}
+
+.box9 {
+    width: 200px;
+    height: 30px;
+    padding-left: 50px;
+    padding-top: 20px;
+    background-color:  rgb(48, 216, 238)
+}
+
+.box10 {
+    width: 200px;
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color: rgb(161, 161, 161);
+}
