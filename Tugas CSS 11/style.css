@@ -1,0 +1,11 @@
+.p_pertama,
+.p_kedua,
+.p_ketiga,
+.p_keempat,
+.p_kelima {
+     column-count: 4;
+     column-width: 300px;
+     column-fill: balance;
+     column-rule:solid black;
+
+}
