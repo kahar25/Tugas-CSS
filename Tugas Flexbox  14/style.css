@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+}
+.box {
+    width: 100%;
+    height: 200px;
+    background-color:white;
+}
+.container {
+ 
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.container2 {
+    
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    position: relative;
+    top: 470px;
+     
+}
+
+.container3 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -70px;
+     
+}
+
+
+.b1 {
+     width: 150px;
+     height: 50px;
+     background-color: aquamarine;
+     padding-top: 20px;
+     color: white;
+     flex-direction: column;
+     position: relative;
+      
+
+}
+
+.b2 {
+    width: 150px;
+    height: 50px;
+    background-color: green;
+    padding-top: 20px;
+    color: white;
+}
+
+.b3 {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(76, 116, 238);
+    padding-top: 20px;
+    color: white;
+}
+
+.b4 {
+    width: 150px;
+    height: 50px;
+    background-color: purple;
+    padding-top: 20px;
+    color: white;
+}
+
+.b5 {
+    width: 150px;
+    height: 50px;
+    background-color: blueviolet;
+    padding-top: 20px;
+    color: white;
+}
+
+.b6 {
+    width: 150px;
+    height: 50px;
+    background-color: yellow;
+    padding-top: 20px;
+    color: white;
+
+}
+
+.b7 {
+    width: 150px;
+    height: 50px;
+    background-color: orange;
+    padding-top: 20px;
+    color: white;
+}
+ 
+.b8 {
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    padding-top: 20px;
+    color: white;
+}
+
+.b9 {
+    width: 150px;
+    height: 50px;
+    background-color: silver;
+    padding-top: 20px;
+    color: white;
+}
+
+.b10 {
+    width: 150px;
+    height: 50px;
+    background-color: slategray;
+    padding-top: 20px;
+    color: white;
+}
+
+
+
+.a1 {
+    width: 150px;
+    height: 40px;
+    background-color: aquamarine;
+    padding-top: 20px;
+    color: white;
+    flex-direction: column;
+
+}
+
+.a2 {
+   width: 150px;
+   height: 40px;
+   background-color: green;
+   padding-top: 20px;
+   color: white;
+}
+
+.a3 {
+   width: 150px;
+   height: 40px;
+   background-color: rgb(76, 116, 238);
+   padding-top: 20px;
+   color: white;
+}
+
+.a4 {
+   width: 150px;
+   height: 40px;
+   background-color: purple;
+   padding-top: 20px;
+   color: white;
+}
+
+.a5 {
+   width: 150px;
+   height: 30px;
+   background-color: blueviolet;
+   padding-top: 20px;
+   color: white;
+}
+
+.a6 {
+   width: 150px;
+   height: 40px;
+   background-color: yellow;
+   padding-top: 20px;
+   color: white;
+
+}
+
+.a7 {
+   width: 150px;
+   height: 40px;
+   background-color: orange;
+   padding-top: 20px;
+   color: white;
+}
+
+.a8 {
+   width: 150px;
+   height: 40px;
+   background-color: red;
+   padding-top: 20px;
+   color: white;
+}
